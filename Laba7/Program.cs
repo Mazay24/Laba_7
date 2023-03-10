@@ -136,7 +136,7 @@ namespace Laba7
 
         public override void NameInfo()
         {
-            Console.WriteLine($"Наименование корабля: " + Name);
+            Console.WriteLine("Наименование корабля: " + Name);
         }
 
         public override void DistanceInfo()
